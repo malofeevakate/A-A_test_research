@@ -4,6 +4,6 @@
  
 
 ## Описание данных: ##
-experimentVariant – вариант эксперимента
-version – версия приложения
-purchase – факт покупки
+experimentVariant – вариант эксперимента  
+version – версия приложения  
+purchase – факт покупки  
